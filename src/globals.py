@@ -1,5 +1,6 @@
 import os
 
+
 years = [2019, 2022, 2024]
 dir_base = r"F:\Photo_Boise"
 dir_delete = dir_base + r"\__for_delete"
